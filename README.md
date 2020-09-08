@@ -1,37 +1,37 @@
-# Clean Code concepts adapted for .NET/.NET Core
+# 適用於 .NET/.NET Core 的 Clean Code 觀念 
 
-If you liked `clean-code-dotnet` project or if it helped you, please give a star :star: for this repository. That will not only help strengthen our .NET community but also improve skills about the clean code for .NET developers in around the world. Thank you very much :+1:
+如果你喜歡 `clean-code-dotnet` 專案或者它幫助了你，請給我一顆星:star:（也歡迎到[原始專案](https://github.com/thangchung/clean-code-dotnet)給一顆星）。這不僅幫助 .NET 社群茁壯，也讓世界上的 .NET 開發者得以精進他們在 Clean Code 的能力。十分感謝你:+1:
 
-Check out my [blog](https://medium.com/@thangchung) or say hi on [Twitter](https://twitter.com/thangchung)!
+請查看原作者的 [blog](https://medium.com/@thangchung) 或在 [Twitter](https://twitter.com/thangchung) 上跟他打聲招呼。
 
-# Table of Contents
+# 目次表
 
-- [Clean Code concepts adapted for .NET/.NET Core](#clean-code-concepts-adapted-for-netnet-core)
-- [Table of Contents](#table-of-contents)
-- [Introduction](#introduction)
+- [適用於 .NET/.NET Core 的 Clean Code 觀念 ](#clean-code-concepts-adapted-for-netnet-core)
+- [目次表](#table-of-contents)
+- [介紹](#introduction)
 - [Clean Code .NET](#clean-code-net)
-  - [Naming](#naming)
-  - [Variables](#variables)
-  - [Functions](#functions)
-  - [Objects and Data Structures](#objects-and-data-structures)
-  - [Classes](#classes)
+  - [命名（Naming）](#naming)
+  - [變數（Variables）](#variables)
+  - [函數（Functions）](#functions)
+  - [物件與資料結構（Objects and Data Structure）](#objects-and-data-structures)
+  - [型別（Classes）](#classes)
   - [SOLID](#solid)
-  - [Testing](#testing)
+  - [測試（Testing）](#testing)
   - [Concurrency](#concurrency)
-  - [Error Handling](#error-handling)
-  - [Formatting](#formatting)
-  - [Comments](#comments)
-- [Other Clean Code Resources](#other-clean-code-resources)
-  - [Other Clean Code Lists](#other-clean-code-lists)
-  - [Style Guides](#style-guides)
-  - [Tools](#tools)
-  - [Cheatsheets](#cheatsheets)
-- [Contributors](#contributors)
+  - [錯誤處理（Error Handling）](#error-handling)
+  - [格式（Formatting）](#formatting)
+  - [備註（Comments）](#comments)
+- [其他 Clean Code 資源](#other-clean-code-resources)
+  - [其他 Clean Code 清單](#other-clean-code-lists)
+  - [樣式指引](#style-guides)
+  - [工具](#tools)
+  - [小抄](#cheatsheets)
+- [協作者（Contributors）](#contributors)
 - [Backers](#backers)
 - [Sponsors](#sponsors)
 - [License](#license)
 
-# Introduction
+# 介紹
 
 ![Humorous image of software quality estimation as a count of how many expletives you shout when reading code](http://www.osnews.com/images/comics/wtfm.jpg)
 
