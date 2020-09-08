@@ -10,7 +10,7 @@
 - [目次表](#table-of-contents)
 - [介紹](#introduction)
 - [Clean Code .NET](#clean-code-net)
-  - [命名（Naming）](#naming)
+  - [命名（Naming）](#命名（Naming）)
   - [變數（Variables）](#variables)
   - [函數（Functions）](#functions)
   - [物件與資料結構（Objects and Data Structure）](#objects-and-data-structures)
@@ -43,7 +43,7 @@ Inspired from [clean-code-javascript](https://github.com/ryanmcdermott/clean-cod
 
 # Clean Code .NET
 
-## Naming
+## 命名（Naming）
 
 <details>
   <summary><b>Avoid using bad names</b></summary>
